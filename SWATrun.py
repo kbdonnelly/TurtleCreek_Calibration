@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Wrapper for Executing SWAT+ Model
+Wrapper for Executing SWAT2012 Model
 
-Adapated from Jaya Hafner, Kalcic Lab @ UW Madison
-
-Last updated: 08/14/2025
+Last updated: 11/13/2025
 
 @author: kbdon
 """
